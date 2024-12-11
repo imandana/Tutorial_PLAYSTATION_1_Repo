@@ -1,0 +1,829 @@
+OT_ADDR a 0 
+OT_ADDR a 0 
+OT_ADDR a 0 
+OT_ADDR a 0 
+POLYF3_tag a 0 
+POLYF3_tag a 0 
+POLYF3_tag a 0 
+POLYF3_tag a 0 
+POLYF4_tag a 0 
+POLYF4_tag a 0 
+POLYF4_tag a 0 
+POLYF4_tag a 0 
+POLYFT3_tag a 0 
+POLYFT3_tag a 0 
+POLYFT3_tag a 0 
+POLYFT3_tag a 0 
+POLYFT4_tag a 0 
+POLYFT4_tag a 0 
+POLYFT4_tag a 0 
+POLYFT4_tag a 0 
+POLYG3_tag a 0 
+POLYG3_tag a 0 
+POLYG3_tag a 0 
+POLYG3_tag a 0 
+POLYG4_tag a 0 
+POLYG4_tag a 0 
+POLYG4_tag a 0 
+POLYG4_tag a 0 
+POLYG4_tag a 0 
+POLYGT3_tag a 0 
+POLYGT3_tag a 0 
+POLYGT3_tag a 0 
+POLYGT3_tag a 0 
+POLYGT4_tag a 0 
+POLYGT4_tag a 0 
+POLYGT4_tag a 0 
+POLYGT4_tag a 0 
+SMD_HEAD_ID a 0 
+SMD_HEAD_ID a 0 
+SMD_HEAD_ID a 0 
+SMD_HEAD_ID a 0 
+SMD_PRI_ID a 0 
+CLIP_LEFT a 1 
+CLIP_LEFT a 1 
+CLIP_LEFT a 1 
+CLIP_LEFT a 1 
+CLIP_RIGHT a 2 
+CLIP_RIGHT a 2 
+CLIP_RIGHT a 2 
+CLIP_RIGHT a 2 
+CLIP_TOP a 4 
+CLIP_TOP a 4 
+CLIP_TOP a 4 
+CLIP_TOP a 4 
+OT_LEN a 4 
+OT_LEN a 4 
+OT_LEN a 4 
+OT_LEN a 4 
+POLYF3_tpage a 4 
+POLYF3_tpage a 4 
+POLYF3_tpage a 4 
+POLYF3_tpage a 4 
+POLYF4_tpage a 4 
+POLYF4_tpage a 4 
+POLYF4_tpage a 4 
+POLYF4_tpage a 4 
+POLYFT3_rgbc a 4 
+POLYFT3_rgbc a 4 
+POLYFT3_rgbc a 4 
+POLYFT3_rgbc a 4 
+POLYFT4_rgbc a 4 
+POLYFT4_rgbc a 4 
+POLYFT4_rgbc a 4 
+POLYFT4_rgbc a 4 
+POLYG3_tpage a 4 
+POLYG3_tpage a 4 
+POLYG3_tpage a 4 
+POLYG3_tpage a 4 
+POLYG4_rgb0 a 4 
+POLYG4_tpage a 4 
+POLYG4_tpage a 4 
+POLYG4_tpage a 4 
+POLYG4_tpage a 4 
+POLYGT3_rgbc0 a 4 
+POLYGT3_rgbc0 a 4 
+POLYGT3_rgbc0 a 4 
+POLYGT3_rgbc0 a 4 
+POLYGT4_rgbc0 a 4 
+POLYGT4_rgbc0 a 4 
+POLYGT4_rgbc0 a 4 
+POLYGT4_rgbc0 a 4 
+SMD_HEAD_FLAG a 4 
+SMD_HEAD_FLAG a 4 
+SMD_HEAD_FLAG a 4 
+SMD_HEAD_FLAG a 4 
+SMD_PRI_v0 a 4 
+SMD_HEAD_NVERTS a 6 
+SMD_HEAD_NVERTS a 6 
+SMD_HEAD_NVERTS a 6 
+SMD_HEAD_NVERTS a 6 
+SMD_PRI_v1 a 6 
+CLIP_BOTTOM a 8 
+CLIP_BOTTOM a 8 
+CLIP_BOTTOM a 8 
+CLIP_BOTTOM a 8 
+OT_ZDIV a 8 
+OT_ZDIV a 8 
+OT_ZDIV a 8 
+OT_ZDIV a 8 
+POLYF3_rgbc a 8 
+POLYF3_rgbc a 8 
+POLYF3_rgbc a 8 
+POLYF3_rgbc a 8 
+POLYF4_rgbc a 8 
+POLYF4_rgbc a 8 
+POLYF4_rgbc a 8 
+POLYF4_rgbc a 8 
+POLYFT3_xy0 a 8 
+POLYFT3_xy0 a 8 
+POLYFT3_xy0 a 8 
+POLYFT3_xy0 a 8 
+POLYFT4_xy0 a 8 
+POLYFT4_xy0 a 8 
+POLYFT4_xy0 a 8 
+POLYFT4_xy0 a 8 
+POLYG3_rgbc0 a 8 
+POLYG3_rgbc0 a 8 
+POLYG3_rgbc0 a 8 
+POLYG3_rgbc0 a 8 
+POLYG4_rgbc0 a 8 
+POLYG4_rgbc0 a 8 
+POLYG4_rgbc0 a 8 
+POLYG4_rgbc0 a 8 
+POLYG4_xy0 a 8 
+POLYGT3_xy0 a 8 
+POLYGT3_xy0 a 8 
+POLYGT3_xy0 a 8 
+POLYGT3_xy0 a 8 
+POLYGT4_xy0 a 8 
+POLYGT4_xy0 a 8 
+POLYGT4_xy0 a 8 
+POLYGT4_xy0 a 8 
+SMD_HEAD_NNORMS a 8 
+SMD_HEAD_NNORMS a 8 
+SMD_HEAD_NNORMS a 8 
+SMD_HEAD_NNORMS a 8 
+SMD_PRI_v2 a 8 
+OT_ZOFF a a 
+OT_ZOFF a a 
+OT_ZOFF a a 
+OT_ZOFF a a 
+SMD_HEAD_NPRIMS a a 
+SMD_HEAD_NPRIMS a a 
+SMD_HEAD_NPRIMS a a 
+SMD_HEAD_NPRIMS a a 
+SMD_PRI_v3 a a 
+POLYF3_xy0 a c 
+POLYF3_xy0 a c 
+POLYF3_xy0 a c 
+POLYF3_xy0 a c 
+POLYF4_xy0 a c 
+POLYF4_xy0 a c 
+POLYF4_xy0 a c 
+POLYF4_xy0 a c 
+POLYFT3_uv0 a c 
+POLYFT3_uv0 a c 
+POLYFT3_uv0 a c 
+POLYFT3_uv0 a c 
+POLYFT4_uv0 a c 
+POLYFT4_uv0 a c 
+POLYFT4_uv0 a c 
+POLYFT4_uv0 a c 
+POLYG3_xy0 a c 
+POLYG3_xy0 a c 
+POLYG3_xy0 a c 
+POLYG3_xy0 a c 
+POLYG4_rgb1 a c 
+POLYG4_xy0 a c 
+POLYG4_xy0 a c 
+POLYG4_xy0 a c 
+POLYG4_xy0 a c 
+POLYGT3_uv0 a c 
+POLYGT3_uv0 a c 
+POLYGT3_uv0 a c 
+POLYGT3_uv0 a c 
+POLYGT4_uv0 a c 
+POLYGT4_uv0 a c 
+POLYGT4_uv0 a c 
+POLYGT4_uv0 a c 
+SMD_HEAD_PVERTS a c 
+SMD_HEAD_PVERTS a c 
+SMD_HEAD_PVERTS a c 
+SMD_HEAD_PVERTS a c 
+SMD_PRI_n0 a c 
+POLYFT3_clut a e 
+POLYFT3_clut a e 
+POLYFT3_clut a e 
+POLYFT3_clut a e 
+POLYFT4_clut a e 
+POLYFT4_clut a e 
+POLYFT4_clut a e 
+POLYFT4_clut a e 
+POLYGT3_clut a e 
+POLYGT3_clut a e 
+POLYGT3_clut a e 
+POLYGT3_clut a e 
+POLYGT4_clut a e 
+POLYGT4_clut a e 
+POLYGT4_clut a e 
+POLYGT4_clut a e 
+SMD_PRI_n1 a e 
+POLYF3_xy1 a 10 
+POLYF3_xy1 a 10 
+POLYF3_xy1 a 10 
+POLYF3_xy1 a 10 
+POLYF4_xy1 a 10 
+POLYF4_xy1 a 10 
+POLYF4_xy1 a 10 
+POLYF4_xy1 a 10 
+POLYFT3_xy1 a 10 
+POLYFT3_xy1 a 10 
+POLYFT3_xy1 a 10 
+POLYFT3_xy1 a 10 
+POLYFT4_xy1 a 10 
+POLYFT4_xy1 a 10 
+POLYFT4_xy1 a 10 
+POLYFT4_xy1 a 10 
+POLYG3_rgbc1 a 10 
+POLYG3_rgbc1 a 10 
+POLYG3_rgbc1 a 10 
+POLYG3_rgbc1 a 10 
+POLYG4_rgbc1 a 10 
+POLYG4_rgbc1 a 10 
+POLYG4_rgbc1 a 10 
+POLYG4_rgbc1 a 10 
+POLYG4_xy1 a 10 
+POLYGT3_rgbc1 a 10 
+POLYGT3_rgbc1 a 10 
+POLYGT3_rgbc1 a 10 
+POLYGT3_rgbc1 a 10 
+POLYGT4_rgbc1 a 10 
+POLYGT4_rgbc1 a 10 
+POLYGT4_rgbc1 a 10 
+POLYGT4_rgbc1 a 10 
+SMD_HEAD_PNORMS a 10 
+SMD_HEAD_PNORMS a 10 
+SMD_HEAD_PNORMS a 10 
+SMD_HEAD_PNORMS a 10 
+SMD_PRI_n2 a 10 
+SMD_PRI_n3 a 12 
+POLYF3_xy2 a 14 
+POLYF3_xy2 a 14 
+POLYF3_xy2 a 14 
+POLYF3_xy2 a 14 
+POLYF4_xy2 a 14 
+POLYF4_xy2 a 14 
+POLYF4_xy2 a 14 
+POLYF4_xy2 a 14 
+POLYFT3_uv1 a 14 
+POLYFT3_uv1 a 14 
+POLYFT3_uv1 a 14 
+POLYFT3_uv1 a 14 
+POLYFT4_uv1 a 14 
+POLYFT4_uv1 a 14 
+POLYFT4_uv1 a 14 
+POLYFT4_uv1 a 14 
+POLYG3_xy1 a 14 
+POLYG3_xy1 a 14 
+POLYG3_xy1 a 14 
+POLYG3_xy1 a 14 
+POLYG4_rgb2 a 14 
+POLYG4_xy1 a 14 
+POLYG4_xy1 a 14 
+POLYG4_xy1 a 14 
+POLYG4_xy1 a 14 
+POLYGT3_xy1 a 14 
+POLYGT3_xy1 a 14 
+POLYGT3_xy1 a 14 
+POLYGT3_xy1 a 14 
+POLYGT4_xy1 a 14 
+POLYGT4_xy1 a 14 
+POLYGT4_xy1 a 14 
+POLYGT4_xy1 a 14 
+SMD_HEAD_PPRIMS a 14 
+SMD_HEAD_PPRIMS a 14 
+SMD_HEAD_PPRIMS a 14 
+SMD_HEAD_PPRIMS a 14 
+SMD_PRI_rgbc0 a 14 
+POLYFT3_tpage a 16 
+POLYFT3_tpage a 16 
+POLYFT3_tpage a 16 
+POLYFT3_tpage a 16 
+POLYFT4_tpage a 16 
+POLYFT4_tpage a 16 
+POLYFT4_tpage a 16 
+POLYFT4_tpage a 16 
+POLYF3_len a 18 
+POLYF3_len a 18 
+POLYF3_len a 18 
+POLYF3_len a 18 
+POLYF4_xy3 a 18 
+POLYF4_xy3 a 18 
+POLYF4_xy3 a 18 
+POLYF4_xy3 a 18 
+POLYFT3_xy2 a 18 
+POLYFT3_xy2 a 18 
+POLYFT3_xy2 a 18 
+POLYFT3_xy2 a 18 
+POLYFT4_xy2 a 18 
+POLYFT4_xy2 a 18 
+POLYFT4_xy2 a 18 
+POLYFT4_xy2 a 18 
+POLYG3_rgbc2 a 18 
+POLYG3_rgbc2 a 18 
+POLYG3_rgbc2 a 18 
+POLYG3_rgbc2 a 18 
+POLYG4_rgbc2 a 18 
+POLYG4_rgbc2 a 18 
+POLYG4_rgbc2 a 18 
+POLYG4_rgbc2 a 18 
+POLYG4_xy2 a 18 
+POLYGT3_uv1 a 18 
+POLYGT3_uv1 a 18 
+POLYGT3_uv1 a 18 
+POLYGT3_uv1 a 18 
+POLYGT4_uv1 a 18 
+POLYGT4_uv1 a 18 
+POLYGT4_uv1 a 18 
+POLYGT4_uv1 a 18 
+SMD_HEAD_SIZE a 18 
+SMD_HEAD_SIZE a 18 
+SMD_HEAD_SIZE a 18 
+SMD_HEAD_SIZE a 18 
+SMD_PRI_rgbc1 a 18 
+POLYGT3_tpage a 1a 
+POLYGT3_tpage a 1a 
+POLYGT3_tpage a 1a 
+POLYGT3_tpage a 1a 
+POLYGT4_tpage a 1a 
+POLYGT4_tpage a 1a 
+POLYGT4_tpage a 1a 
+POLYGT4_tpage a 1a 
+POLYF4_len a 1c 
+POLYF4_len a 1c 
+POLYF4_len a 1c 
+POLYF4_len a 1c 
+POLYFT3_uv2 a 1c 
+POLYFT3_uv2 a 1c 
+POLYFT3_uv2 a 1c 
+POLYFT3_uv2 a 1c 
+POLYFT4_uv2 a 1c 
+POLYFT4_uv2 a 1c 
+POLYFT4_uv2 a 1c 
+POLYFT4_uv2 a 1c 
+POLYG3_xy2 a 1c 
+POLYG3_xy2 a 1c 
+POLYG3_xy2 a 1c 
+POLYG3_xy2 a 1c 
+POLYG4_rgb3 a 1c 
+POLYG4_xy2 a 1c 
+POLYG4_xy2 a 1c 
+POLYG4_xy2 a 1c 
+POLYG4_xy2 a 1c 
+POLYGT3_rgbc2 a 1c 
+POLYGT3_rgbc2 a 1c 
+POLYGT3_rgbc2 a 1c 
+POLYGT3_rgbc2 a 1c 
+POLYGT4_rgbc2 a 1c 
+POLYGT4_rgbc2 a 1c 
+POLYGT4_rgbc2 a 1c 
+POLYGT4_rgbc2 a 1c 
+SMD_PRI_rgbc2 a 1c 
+POLYFT3_pad a 1e 
+POLYFT3_pad a 1e 
+POLYFT3_pad a 1e 
+POLYFT3_pad a 1e 
+POLYFT4_pad0 a 1e 
+POLYFT4_pad0 a 1e 
+POLYFT4_pad0 a 1e 
+POLYFT4_pad0 a 1e 
+POLYFT3_len a 20 
+POLYFT3_len a 20 
+POLYFT3_len a 20 
+POLYFT3_len a 20 
+POLYFT4_xy3 a 20 
+POLYFT4_xy3 a 20 
+POLYFT4_xy3 a 20 
+POLYFT4_xy3 a 20 
+POLYG3_len a 20 
+POLYG3_len a 20 
+POLYG3_len a 20 
+POLYG3_len a 20 
+POLYG4_rgbc3 a 20 
+POLYG4_rgbc3 a 20 
+POLYG4_rgbc3 a 20 
+POLYG4_rgbc3 a 20 
+POLYG4_xy3 a 20 
+POLYGT3_xy2 a 20 
+POLYGT3_xy2 a 20 
+POLYGT3_xy2 a 20 
+POLYGT3_xy2 a 20 
+POLYGT4_xy2 a 20 
+POLYGT4_xy2 a 20 
+POLYGT4_xy2 a 20 
+POLYGT4_xy2 a 20 
+SMD_PRI_rgbc3 a 20 
+POLYFT4_uv3 a 24 
+POLYFT4_uv3 a 24 
+POLYFT4_uv3 a 24 
+POLYFT4_uv3 a 24 
+POLYG4_len a 24 
+POLYG4_xy3 a 24 
+POLYG4_xy3 a 24 
+POLYG4_xy3 a 24 
+POLYG4_xy3 a 24 
+POLYGT3_uv2 a 24 
+POLYGT3_uv2 a 24 
+POLYGT3_uv2 a 24 
+POLYGT3_uv2 a 24 
+POLYGT4_uv2 a 24 
+POLYGT4_uv2 a 24 
+POLYGT4_uv2 a 24 
+POLYGT4_uv2 a 24 
+SMD_PRI_tuv0 a 24 
+POLYFT4_pad1 a 26 
+POLYFT4_pad1 a 26 
+POLYFT4_pad1 a 26 
+POLYFT4_pad1 a 26 
+POLYGT3_pad a 26 
+POLYGT3_pad a 26 
+POLYGT3_pad a 26 
+POLYGT3_pad a 26 
+POLYGT4_pad0 a 26 
+POLYGT4_pad0 a 26 
+POLYGT4_pad0 a 26 
+POLYGT4_pad0 a 26 
+SMD_PRI_tuv1 a 26 
+POLYFT4_len a 28 
+POLYFT4_len a 28 
+POLYFT4_len a 28 
+POLYFT4_len a 28 
+POLYG4_len a 28 
+POLYG4_len a 28 
+POLYG4_len a 28 
+POLYG4_len a 28 
+POLYGT3_len a 28 
+POLYGT3_len a 28 
+POLYGT3_len a 28 
+POLYGT3_len a 28 
+POLYGT4_rgbc3 a 28 
+POLYGT4_rgbc3 a 28 
+POLYGT4_rgbc3 a 28 
+POLYGT4_rgbc3 a 28 
+SMD_PRI_tuv2 a 28 
+SMD_PRI_tuv3 a 2a 
+POLYGT4_xy3 a 2c 
+POLYGT4_xy3 a 2c 
+POLYGT4_xy3 a 2c 
+POLYGT4_xy3 a 2c 
+SMD_PRI_tpage a 2c 
+SMD_PRI_clut a 2e 
+POLYGT4_uv3 a 30 
+POLYGT4_uv3 a 30 
+POLYGT4_uv3 a 30 
+POLYGT4_uv3 a 30 
+POLYGT4_pad1 a 32 
+POLYGT4_pad1 a 32 
+POLYGT4_pad1 a 32 
+POLYGT4_pad1 a 32 
+POLYGT4_len a 34 
+POLYGT4_len a 34 
+POLYGT4_len a 34 
+POLYGT4_len a 34 
+__text_start T 80010000 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/disp.c:20
+initDisplay T 80010000 1bc	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/disp.c:20
+display T 800101bc 9c	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/disp.c:59
+lightdemo T 80010258 ed4	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/lightdemo.c:16
+intro T 8001112c d10	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/logo.c:78
+timerTick T 80011e3c 34	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/main.c:82
+loadTextures T 80011e70 44c	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/main.c:130
+unpackModels T 800122bc 210	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/main.c:203
+init T 800124cc 70	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/main.c:248
+bungirldemo T 8001253c 2d8	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/main.c:264
+stencilstuff T 80012814 450	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/main.c:356
+hatkidstuff T 80012c64 26c	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/main.c:503
+plasmastuff T 80012ed0 a4	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/main.c:601
+transition T 80012f74 1b4	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/main.c:625
+main T 80013128 60	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/main.c:681
+sort_fps_counter T 80013188 148	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/overlay.c:28
+sort_overlay T 800132d0 5e0	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/overlay.c:57
+genPlasma T 800138b0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/plasmagen.s:19
+.gn_y_loop t 800138b4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/plasmagen.s:21
+.gn_x_loop t 800138b8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/plasmagen.s:23
+sortPlasma T 80013950 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/plasmagen.s:70
+.y_loop t 80013954 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/plasmagen.s:73
+.x_loop t 80013958 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/plasmagen.s:76
+smdInitData T 80013ab0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:15
+scSetClipRect T 80013adc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:34
+smdSetBaseTPage T 80013afc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:47
+smdSortModel T 80013b08 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:61
+.sort_loop t 80013b3c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:79
+.no_culling t 80013bcc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:128
+.prim_tri t 80013bec 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:140
+.no_clip_l_x0 t 80013c48 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_r_x0 t 80013c60 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_t_y0 t 80013c78 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_b_y0 t 80013c8c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_l_x1 t 80013cb0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_r_x1 t 80013cc8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_t_y1 t 80013ce0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_b_y1 t 80013cf4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_l_x2 t 80013d18 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_r_x2 t 80013d30 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_t_y2 t 80013d48 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:160
+.no_clip_b_y2 t 80013d5c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:162
+.do_draw t 80013d80 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:175
+.F3_gouraud t 80013dbc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:197
+.F3_textured t 80013de0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:211
+.F3_light t 80013e28 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:235
+.F3_light_tex t 80013e84 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:269
+.F3_light_smt t 80013ec8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:292
+.F3_light_tex_smt t 80013f2c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:325
+.sort_F3_pri t 80013f78 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:351
+.sort_FT3_pri t 80013ff4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:393
+.sort_G3_pri t 8001404c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:425
+.sort_GT3_pri t 800140c8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:467
+.prim_quad t 80014120 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:501
+.no_clip_l_x0_q t 800141a8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_r_x0_q t 800141c0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_t_y0_q t 800141d8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_b_y0_q t 800141ec 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_l_x1_q t 80014210 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_r_x1_q t 80014228 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_t_y1_q t 80014240 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_b_y1_q t 80014254 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_l_x2_q t 80014278 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_r_x2_q t 80014290 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_t_y2_q t 800142a8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_b_y2_q t 800142bc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_l_x3_q t 800142e0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_r_x3_q t 800142f8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_t_y3_q t 80014310 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:539
+.no_clip_b_y3_q t 80014324 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:541
+.do_draw_q t 80014360 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:559
+.F4_gouraud t 8001439c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:581
+.F4_textured t 800143c8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:597
+.F4_light t 80014418 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:623
+.F4_light_tex t 80014474 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:657
+.F4_light_smt t 800144c0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:682
+.F4_light_tex_smt t 8001454c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:726
+.sort_F4_pri t 800145a4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:756
+.sort_FT4_pri t 80014624 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:799
+.sort_G4_pri t 80014680 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:832
+.sort_GT4_pri t 80014700 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:875
+.skip_prim t 8001475c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:908
+.exit t 80014764 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd.s:913
+smdSetCelTex T 80014780 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:15
+smdSetCelParam T 80014798 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:30
+smdSortModelCel T 800147c4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:52
+.sort_loop t 800147fc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:70
+.no_culling t 8001488c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:119
+.prim_tri t 800148ac 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:131
+.no_clip_l_x0 t 80014908 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_r_x0 t 80014920 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_t_y0 t 80014938 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_b_y0 t 8001494c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_l_x1 t 80014970 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_r_x1 t 80014988 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_t_y1 t 800149a0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_b_y1 t 800149b4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_l_x2 t 800149d8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_r_x2 t 800149f0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_t_y2 t 80014a08 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:151
+.no_clip_b_y2 t 80014a1c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:153
+.do_draw t 80014a40 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:166
+.F3_gouraud t 80014a7c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:188
+.F3_textured t 80014aa0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:202
+.F3_light t 80014ae8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:226
+.F3_light_tex t 80014b44 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:260
+.F3_light_smt t 80014b88 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:283
+.F3_light_tex_smt t 80014cdc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:398
+.sort_F3_pri t 80014d1c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:420
+.sort_FT3_pri t 80014d9c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:462
+.sort_G3_pri t 80014df4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:494
+.sort_GT3_pri t 80014e74 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:536
+.prim_quad t 80014ecc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:570
+.no_clip_l_x0_q t 80014f54 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_r_x0_q t 80014f6c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_t_y0_q t 80014f84 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_b_y0_q t 80014f98 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_l_x1_q t 80014fbc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_r_x1_q t 80014fd4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_t_y1_q t 80014fec 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_b_y1_q t 80015000 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_l_x2_q t 80015024 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_r_x2_q t 8001503c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_t_y2_q t 80015054 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_b_y2_q t 80015068 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_l_x3_q t 8001508c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_r_x3_q t 800150a4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_t_y3_q t 800150bc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:608
+.no_clip_b_y3_q t 800150d0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:610
+.do_draw_q t 8001510c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:628
+.F4_gouraud t 80015148 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:650
+.F4_textured t 80015174 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:666
+.F4_light t 800151c4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:692
+.F4_light_tex t 80015220 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:726
+.F4_light_smt t 80015270 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:752
+.F4_light_tex_smt t 8001540c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:880
+.sort_F4_pri t 80015450 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:904
+.sort_FT4_pri t 800154d4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:947
+.sort_G4_pri t 80015530 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:980
+.sort_GT4_pri t 800155b4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:1023
+.skip_prim t 80015610 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:1056
+.exit t 80015618 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_cel.s:1061
+smdSortModelFlat T 80015634 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:18
+.sort_loop t 80015664 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:34
+.prim_tri t 800156f4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:89
+.no_clip_l_x0 t 8001571c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_r_x0 t 80015734 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_t_y0 t 8001574c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_b_y0 t 80015760 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_l_x1 t 80015784 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_r_x1 t 8001579c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_t_y1 t 800157b4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_b_y1 t 800157c8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_l_x2 t 800157ec 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_r_x2 t 80015804 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_t_y2 t 8001581c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:93
+.no_clip_b_y2 t 80015830 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:95
+.do_draw t 80015854 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:112
+.F3_textured t 80015880 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:129
+.F3_gouraud t 800158c8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:152
+.sort_F3_pri t 800158ec 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:282
+.sort_FT3_pri t 8001596c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:324
+.sort_G3_pri t 800159c4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:356
+.sort_GT3_pri t 80015a44 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:398
+.prim_quad t 80015a9c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:432
+.no_clip_l_x0_q t 80015af4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_r_x0_q t 80015b0c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_t_y0_q t 80015b24 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_b_y0_q t 80015b38 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_l_x1_q t 80015b5c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_r_x1_q t 80015b74 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_t_y1_q t 80015b8c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_b_y1_q t 80015ba0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_l_x2_q t 80015bc4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_r_x2_q t 80015bdc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_t_y2_q t 80015bf4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_b_y2_q t 80015c08 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_l_x3_q t 80015c2c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_r_x3_q t 80015c44 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_t_y3_q t 80015c5c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:450
+.no_clip_b_y3_q t 80015c70 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:452
+.do_draw_q t 80015cac 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:470
+.F4_textured t 80015ce8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:492
+.F4_gouraud t 80015d38 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:518
+.F4_light t 80015d64 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:535
+.F4_light_tex t 80015dc0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:569
+.F4_light_smt t 80015e0c 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:594
+.F4_light_tex_smt t 80015e98 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:638
+.sort_F4_pri t 80015ef0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:668
+.sort_FT4_pri t 80015f74 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:711
+.sort_G4_pri t 80015fd0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:744
+.sort_GT4_pri t 80016054 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:787
+.skip_prim t 800160b0 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:820
+.exit t 800160b8 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smd_flat.s:825
+OpenSMD T 800160d4 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smdparser.s:34
+.not_smd t 800160fc 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smdparser.s:48
+ReadSMD T 80016104 	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/smdparser.s:56
+ClearOTagR T 800161d0 
+DrawOTag T 800161fc 
+DrawSync T 80016250 
+FntLoad T 800162ec 158
+GetTimInfo T 80016444 9c
+GetVideoMode T 800164e0 
+LoadImage T 800164f4 
+PutDispEnv T 80016598 
+PutDrawEnv T 80016770 
+ReadGPUstat T 800168e4 
+ResetGraph T 800168f4 
+VSync T 80016a74 
+_vsync_sub t 80016b7c 
+_vsync_irq_callback t 80016c10 
+SetDefDispEnv T 80016c68 34
+SetDefDrawEnv T 80016c9c 38
+SetDispMask T 80016cd4 
+CompMatrixLV T 80016cf4 
+InitGeom T 80016e14 
+isin T 80016e7c 64
+icos T 80016ee0 64
+RotMatrix T 80016f44 13c
+TransMatrix T 80017080 20
+MulMatrix0 T 800170a0 
+PushMatrix T 80017178 
+PopMatrix T 800171c4 
+ScaleMatrix T 80017214 
+VectorNormalS T 800172dc 
+SpuInit T 800173b4 
+SpuCtrlSync T 80017488 
+SpuWait T 800174ac 
+SpuSetVoiceRaw T 800174cc 
+InterruptCallback T 80017534 
+_global_isr t 80017590 
+RestartCallback T 8001760c 
+_96_remove T 800176a0 
+puts T 800176ac 
+printf T 800176b8 
+ReturnFromException T 800176c4 
+SetCustomExitFromException T 800176d0 
+ChangeClearPAD T 800176dc 
+ChangeClearRCnt T 800176e8 
+EnterCriticalSection T 800176f4 
+ExitCriticalSection T 80017704 
+lzpSearchFile T 80017714 f0
+lzpFileSize T 80017804 88
+lzpUnpackFile T 8001788c a8
+qlpFileCount T 80017934 3c
+qlpFileAddr T 80017970 1c
+qlpFindFile T 8001798c f0
+lzDecompress T 80017a7c 278
+lzCRC32 T 80017cf4 98
+init_bits T 80017d8c 14
+get_bits T 80017da0 88
+GetBSSend T 80017e28 
+InitHeap W 80017e38 
+SetHeapSize W 80017e60 
+malloc W 80017e74 
+calloc W 80017f98 
+free W 80017fd4 
+memset T 8001800c 
+rand T 8001802c 
+srand T 8001805c 
+_start T 8001806c 238
+tolower T 800182a4 1c
+strncpy T 800182c0 4c
+strcpy T 8001830c 24
+strstr T 80018330 fc
+strcmp T 8001842c 64
+strncmp T 80018490 7c
+strtok T 8001850c 114
+memcmp T 80018620 
+scroll_text R 80018728 2285
+__CTOR_LIST__ D 8001a9e0 
+__CTOR_END__ D 8001a9e8 
+__DTOR_LIST__ D 8001a9f0 
+__DTOR_END__ D 8001a9f8 
+lgt_colmtx D 8001a9f8 20
+font_width D 8001aa18 60
+plasma_sin3 D 8001aa78 b4
+plasma_sin2 D 8001ab2c 78
+plasma_sin1 D 8001aba4 a0
+plasma_colors D 8001ac44 400
+_lz_resources D 8001b044 164a6
+_lz_resources_end d 800314ea 
+_lz_resources_size D 800314ec 4
+_vsync_rcnt d 800314f0 
+_vsync_lasthblank d 800314f4 
+vsynctimeout_msg d 800314f8 
+resetgraph_msg d 80031508 
+enableint_msg d 80031526 
+cbhooks_msg d 80031546 
+abouttoen_msg d 8003156b 
+sr_msg d 80031591 
+psxgpu_credits D 800315a3 
+dbugfont D 800315f0 840
+_matrix_stack d 80031e30 
+_norm_table D 80031e50 
+_irq_func_table D 80031fd0 
+_custom_exit D 80032000 
+_randseed d 80032030 
+scrolltext_pos D 80032034 4
+__bss_start B 80032038 
+db B 80032038 4
+nextpri B 8003203c 4
+frame_rate B 80032040 4
+frame_counter B 80032044 4
+timer_counter B 80032048 4
+font_clut B 8003204c 2
+font_tpage B 8003204e 2
+psn00b_tpage B 80032050 2
+lamelotl_tpage B 80032052 2
+o_bungirl B 80032054 4
+o_hatkid B 80032058 4
+o_star B 8003205c 4
+o_timerift B 80032060 4
+o_lightbulb B 80032064 4
+o_world B 80032068 4
+o_rbowshade B 8003206c 4
+overlay_count B 80032070 4
+scrolltext_cpos B 80032074 4
+_smd_tpage_base B 80032078 4
+_sc_clip B 8003207c 8
+_smd_cel_tpage B 80032084 4
+_smd_cel_col B 80032088 4
+_smd_cel_param B 8003208c 4
+_smd_parse_addr B 80032090 4
+_gpu_current_field B 80032094 4
+_hooks_installed B 80032098 4
+_vsync_cb_func B 8003209c 4
+_gpu_standard B 800320a0 4
+_malloc_addr B 800320a4 4
+_malloc_size B 800320a8 4
+mtx B 800320b0 20
+ot B 800320d0 820
+pribuff B 800328f0 40000
+_gp d 8003a030 
+draw B 800728f0 5c
+disp B 8007294c 14
+psn00b_sprite B 80072960 14
+llotl_sprite B 80072974 14
+_font_clut B 80072988 2
+_font_tpage B 8007298a 2
+_nstreams b 8007298c 4
+_stream b 80072990 e0
+bit_count B 80072a70 4
+bit_buf B 80072a74 4
+outBytes B 80072a78 4
+outPtr B 80072a7c 4
+inBytes B 80072a80 4
+inPtr B 80072a84 4
+_arg_string_buffer b 80072a88 84
+_argv_buffer b 80072b0c 40
+__argv B 80072b4c 4
+__argc B 80072b50 4
+_strtok_endpos b 80072b54 4
+_strtok_curpos b 80072b58 4
+_isr_stack B 80072b60 1004
+_end B 80073b64 

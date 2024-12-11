@@ -1,0 +1,191 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:206 (message)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      The target system is: PlayStation -  - mipsel
+      The host system is: Windows - 10.0.17134 - AMD64
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCCompiler.cmake:123 (CMAKE_DETERMINE_COMPILER_ID)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+      Compiler: E:/Imandana/ProgramFIles/PSn00bSDK-0.19-win32/11/bin/mipsel-none-elf-gcc.exe 
+      Build flags: 
+      Id flags:  
+      
+      The output was:
+      0
+      e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/bin/ld.exe: warning: cannot find entry symbol _start; defaulting to 0000000000400060
+      
+      
+      Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+      
+      The C compiler identification is GNU, found in:
+        D:/Imandana/TutorialJM/PS1/Project/Awal/rgb24/build/CMakeFiles/3.27.1/CompilerIdC/a.out
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerId.cmake:1107 (message)"
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineASMCompiler.cmake:127 (CMAKE_DETERMINE_COMPILER_ID_VENDOR)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+      mipsel-none-elf-gcc.exe (GCC) 11.1.0
+      Copyright (C) 2021 Free Software Foundation, Inc.
+      This is free software; see the source for copying conditions.  There is NO
+      warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+      
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:57 (try_compile)"
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:6 (project)"
+    checks:
+      - "Detecting C compiler ABI info"
+    directories:
+      source: "D:/Imandana/TutorialJM/PS1/Project/Awal/rgb24/build/CMakeFiles/CMakeScratch/TryCompile-5b80ox"
+      binary: "D:/Imandana/TutorialJM/PS1/Project/Awal/rgb24/build/CMakeFiles/CMakeScratch/TryCompile-5b80ox"
+    cmakeVariables:
+      CMAKE_C_FLAGS: ""
+      CMAKE_C_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      PSN00BSDK_TARGET: "mipsel-none-elf"
+      PSN00BSDK_TC: "E:/Imandana/ProgramFIles/PSn00bSDK-0.19-win32/11"
+    buildResult:
+      variable: "CMAKE_C_ABI_COMPILED"
+      cached: true
+      stdout: |
+        Change Dir: 'D:/Imandana/TutorialJM/PS1/Project/Awal/rgb24/build/CMakeFiles/CMakeScratch/TryCompile-5b80ox'
+        
+        Run Build Command(s): D:/Imandana/ProgramFiles/Strawberry/c/bin/ninja.exe -v cmTC_c8882
+        [1/2] E:\\Imandana\\ProgramFIles\\PSn00bSDK-0.19-win32\\11\\bin\\mipsel-none-elf-gcc.exe   -v -o CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj -c D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeCCompilerABI.c
+        Using built-in specs.
+        COLLECT_GCC=E:\\Imandana\\ProgramFIles\\PSn00bSDK-0.19-win32\\11\\bin\\mipsel-none-elf-gcc.exe
+        Target: mipsel-none-elf
+        Configured with: ../gcc-11.1.0/configure --prefix=/home/runner/work/PSn00bSDK/PSn00bSDK/gcc/windows --build=x86_64-linux-gnu --host=x86_64-w64-mingw32 --target=mipsel-none-elf --disable-docs --disable-nls --disable-libada --disable-libssp --disable-libquadmath --disable-libstdc++-v3 --with-float=soft --enable-languages=c,c++ --with-gnu-as --with-gnu-ld
+        Thread model: single
+        Supported LTO compression algorithms: zlib
+        gcc version 11.1.0 (GCC) 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj' '-c' '-msoft-float' '-dumpdir' 'CMakeFiles/cmTC_c8882.dir/'
+         e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../libexec/gcc/mipsel-none-elf/11.1.0/cc1.exe -quiet -v -imultilib soft-float -iprefix e:\\imandana\\programfiles\\psn00bsdk-0.19-win32\\11\\bin\\../lib/gcc/mipsel-none-elf/11.1.0/ D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_c8882.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -msoft-float -version -o C:\\Users\\WINDOW~1\\AppData\\Local\\Temp\\ccQRtcQ9.s
+        GNU C17 (GCC) version 11.1.0 (mipsel-none-elf)
+        	compiled by GNU C version 9.3-win32 20200320, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        ignoring nonexistent directory "e:\\imandana\\programfiles\\psn00bsdk-0.19-win32\\11\\bin\\../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/sys-include"
+        ignoring nonexistent directory "e:\\imandana\\programfiles\\psn00bsdk-0.19-win32\\11\\bin\\../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/include"
+        ignoring duplicate directory "e:/imandana/programfiles/psn00bsdk-0.19-win32/11/lib/gcc/../../lib/gcc/mipsel-none-elf/11.1.0/include"
+        ignoring duplicate directory "e:/imandana/programfiles/psn00bsdk-0.19-win32/11/lib/gcc/../../lib/gcc/mipsel-none-elf/11.1.0/include-fixed"
+        ignoring nonexistent directory "e:/imandana/programfiles/psn00bsdk-0.19-win32/11/lib/gcc/../../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/sys-include"
+        ignoring nonexistent directory "e:/imandana/programfiles/psn00bsdk-0.19-win32/11/lib/gcc/../../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/include"
+        #include "..." search starts here:
+        #include <...> search starts here:
+         e:\\imandana\\programfiles\\psn00bsdk-0.19-win32\\11\\bin\\../lib/gcc/mipsel-none-elf/11.1.0/include
+         e:\\imandana\\programfiles\\psn00bsdk-0.19-win32\\11\\bin\\../lib/gcc/mipsel-none-elf/11.1.0/include-fixed
+        End of search list.
+        GNU C17 (GCC) version 11.1.0 (mipsel-none-elf)
+        	compiled by GNU C version 9.3-win32 20200320, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+        
+        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+        Compiler executable checksum: f4e20f4eb2cd1ba8a5e6ba67751ec33e
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj' '-c' '-msoft-float' '-dumpdir' 'CMakeFiles/cmTC_c8882.dir/'
+         e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/bin/as.exe -v -EL -O1 -mabi=32 -msoft-float -o CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj C:\\Users\\WINDOW~1\\AppData\\Local\\Temp\\ccQRtcQ9.s
+        GNU assembler version 2.36 (mipsel-none-elf) using BFD version (GNU Binutils) 2.36
+        COMPILER_PATH=e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../libexec/gcc/mipsel-none-elf/11.1.0/;e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../libexec/gcc/;e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/bin/
+        LIBRARY_PATH=e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/soft-float/;e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/;e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/;e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/lib/\x0d
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj' '-c' '-msoft-float' '-dumpdir' 'CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.'\x0d
+        [2/2] cmd.exe /C "cd . && D:\\Imandana\\ProgramFiles\\cmake-3.27.1-windows-x86_64\\bin\\cmake.exe -E rm -f libcmTC_c8882.a && E:\\Imandana\\ProgramFIles\\PSn00bSDK-0.19-win32\\11\\bin\\mipsel-none-elf-ar.exe qc libcmTC_c8882.a  CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj && E:\\Imandana\\ProgramFIles\\PSn00bSDK-0.19-win32\\11\\bin\\mipsel-none-elf-ranlib.exe libcmTC_c8882.a && cd ."
+        
+      exitCode: 0
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:127 (message)"
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      Parsed C implicit include dir info: rv=done
+        found start of include info
+        found start of implicit include info
+          add: [e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/include]
+          add: [e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/include-fixed]
+        end of search list found
+        collapse include dir [e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/include] ==> [E:/Imandana/ProgramFIles/PSn00bSDK-0.19-win32/11/lib/gcc/mipsel-none-elf/11.1.0/include]
+        collapse include dir [e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/include-fixed] ==> [E:/Imandana/ProgramFIles/PSn00bSDK-0.19-win32/11/lib/gcc/mipsel-none-elf/11.1.0/include-fixed]
+        implicit include dirs: [E:/Imandana/ProgramFIles/PSn00bSDK-0.19-win32/11/lib/gcc/mipsel-none-elf/11.1.0/include;E:/Imandana/ProgramFIles/PSn00bSDK-0.19-win32/11/lib/gcc/mipsel-none-elf/11.1.0/include-fixed]
+      
+      
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeDetermineCompilerABI.cmake:152 (message)"
+      - "D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeTestCCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
+      - "CMakeLists.txt:6 (project)"
+    message: |
+      Parsed C implicit link information:
+        link line regex: [^( *|.*[/\\])(mipsel-none-elf-ld\\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
+        ignore line: [Change Dir: 'D:/Imandana/TutorialJM/PS1/Project/Awal/rgb24/build/CMakeFiles/CMakeScratch/TryCompile-5b80ox']
+        ignore line: []
+        ignore line: [Run Build Command(s): D:/Imandana/ProgramFiles/Strawberry/c/bin/ninja.exe -v cmTC_c8882]
+        ignore line: [[1/2] E:\\Imandana\\ProgramFIles\\PSn00bSDK-0.19-win32\\11\\bin\\mipsel-none-elf-gcc.exe   -v -o CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj -c D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeCCompilerABI.c]
+        ignore line: [Using built-in specs.]
+        ignore line: [COLLECT_GCC=E:\\Imandana\\ProgramFIles\\PSn00bSDK-0.19-win32\\11\\bin\\mipsel-none-elf-gcc.exe]
+        ignore line: [Target: mipsel-none-elf]
+        ignore line: [Configured with: ../gcc-11.1.0/configure --prefix=/home/runner/work/PSn00bSDK/PSn00bSDK/gcc/windows --build=x86_64-linux-gnu --host=x86_64-w64-mingw32 --target=mipsel-none-elf --disable-docs --disable-nls --disable-libada --disable-libssp --disable-libquadmath --disable-libstdc++-v3 --with-float=soft --enable-languages=c,c++ --with-gnu-as --with-gnu-ld]
+        ignore line: [Thread model: single]
+        ignore line: [Supported LTO compression algorithms: zlib]
+        ignore line: [gcc version 11.1.0 (GCC) ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj' '-c' '-msoft-float' '-dumpdir' 'CMakeFiles/cmTC_c8882.dir/']
+        ignore line: [ e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../libexec/gcc/mipsel-none-elf/11.1.0/cc1.exe -quiet -v -imultilib soft-float -iprefix e:\\imandana\\programfiles\\psn00bsdk-0.19-win32\\11\\bin\\../lib/gcc/mipsel-none-elf/11.1.0/ D:/Imandana/ProgramFiles/cmake-3.27.1-windows-x86_64/share/cmake-3.27/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_c8882.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -msoft-float -version -o C:\\Users\\WINDOW~1\\AppData\\Local\\Temp\\ccQRtcQ9.s]
+        ignore line: [GNU C17 (GCC) version 11.1.0 (mipsel-none-elf)]
+        ignore line: [	compiled by GNU C version 9.3-win32 20200320  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [ignoring nonexistent directory "e:\\imandana\\programfiles\\psn00bsdk-0.19-win32\\11\\bin\\../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/sys-include"]
+        ignore line: [ignoring nonexistent directory "e:\\imandana\\programfiles\\psn00bsdk-0.19-win32\\11\\bin\\../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/include"]
+        ignore line: [ignoring duplicate directory "e:/imandana/programfiles/psn00bsdk-0.19-win32/11/lib/gcc/../../lib/gcc/mipsel-none-elf/11.1.0/include"]
+        ignore line: [ignoring duplicate directory "e:/imandana/programfiles/psn00bsdk-0.19-win32/11/lib/gcc/../../lib/gcc/mipsel-none-elf/11.1.0/include-fixed"]
+        ignore line: [ignoring nonexistent directory "e:/imandana/programfiles/psn00bsdk-0.19-win32/11/lib/gcc/../../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/sys-include"]
+        ignore line: [ignoring nonexistent directory "e:/imandana/programfiles/psn00bsdk-0.19-win32/11/lib/gcc/../../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/include"]
+        ignore line: [#include "..." search starts here:]
+        ignore line: [#include <...> search starts here:]
+        ignore line: [ e:\\imandana\\programfiles\\psn00bsdk-0.19-win32\\11\\bin\\../lib/gcc/mipsel-none-elf/11.1.0/include]
+        ignore line: [ e:\\imandana\\programfiles\\psn00bsdk-0.19-win32\\11\\bin\\../lib/gcc/mipsel-none-elf/11.1.0/include-fixed]
+        ignore line: [End of search list.]
+        ignore line: [GNU C17 (GCC) version 11.1.0 (mipsel-none-elf)]
+        ignore line: [	compiled by GNU C version 9.3-win32 20200320  GMP version 6.1.0  MPFR version 3.1.4  MPC version 1.0.3  isl version isl-0.18-GMP]
+        ignore line: []
+        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+        ignore line: [Compiler executable checksum: f4e20f4eb2cd1ba8a5e6ba67751ec33e]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj' '-c' '-msoft-float' '-dumpdir' 'CMakeFiles/cmTC_c8882.dir/']
+        ignore line: [ e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/bin/as.exe -v -EL -O1 -mabi=32 -msoft-float -o CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj C:\\Users\\WINDOW~1\\AppData\\Local\\Temp\\ccQRtcQ9.s]
+        ignore line: [GNU assembler version 2.36 (mipsel-none-elf) using BFD version (GNU Binutils) 2.36]
+        ignore line: [COMPILER_PATH=e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../libexec/gcc/mipsel-none-elf/11.1.0/]
+        ignore line: [e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../libexec/gcc/]
+        ignore line: [e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/bin/]
+        ignore line: [LIBRARY_PATH=e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/soft-float/]
+        ignore line: [e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/]
+        ignore line: [e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/]
+        ignore line: [e:/imandana/programfiles/psn00bsdk-0.19-win32/11/bin/../lib/gcc/mipsel-none-elf/11.1.0/../../../../mipsel-none-elf/lib/\x0d]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj' '-c' '-msoft-float' '-dumpdir' 'CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.'\x0d]
+        ignore line: [[2/2] cmd.exe /C "cd . && D:\\Imandana\\ProgramFiles\\cmake-3.27.1-windows-x86_64\\bin\\cmake.exe -E rm -f libcmTC_c8882.a && E:\\Imandana\\ProgramFIles\\PSn00bSDK-0.19-win32\\11\\bin\\mipsel-none-elf-ar.exe qc libcmTC_c8882.a  CMakeFiles/cmTC_c8882.dir/CMakeCCompilerABI.c.obj && E:\\Imandana\\ProgramFIles\\PSn00bSDK-0.19-win32\\11\\bin\\mipsel-none-elf-ranlib.exe libcmTC_c8882.a && cd ."]
+        ignore line: []
+        ignore line: []
+        implicit libs: []
+        implicit objs: []
+        implicit dirs: []
+        implicit fwks: []
+      
+      
+...

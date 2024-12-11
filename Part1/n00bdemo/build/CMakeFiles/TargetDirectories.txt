@@ -1,0 +1,7 @@
+D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/CMakeFiles/n00bdemo.dir
+D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/CMakeFiles/edit_cache.dir
+D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/CMakeFiles/rebuild_cache.dir
+D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/CMakeFiles/list_install_components.dir
+D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/CMakeFiles/install.dir
+D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/CMakeFiles/install/local.dir
+D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/CMakeFiles/install/strip.dir

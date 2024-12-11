@@ -1,0 +1,49 @@
+<lzp_project>
+
+	<create packname="textures.qlp" format="qlp">
+		
+		<file alias="petscum">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/petscum16c.tim</file>
+		<file alias="bungirl">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/bungirl.tim</file>
+		
+		<!-- These are for the timerift background -->
+		<file alias="clocktex">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/clktower.tim</file>
+		<file alias="riftbldg1">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/riftbld1.tim</file>
+		<file alias="riftbldg2">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/riftbld2.tim</file>
+		<file alias="hatkid">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/hatkid.tim</file>
+		
+		<file alias="celmap">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/celmapi.tim</file>
+		
+		<file alias="lamelotl">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/lamelotl16c.tim</file>
+		<file alias="n00blogo">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/n00blogo-pixel.tim</file>
+		<file alias="font">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/font.tim</file>
+		
+	</create>
+
+	<create packname="data.lzp" format="lzp">
+
+		<!-- intro assets -->
+		<file alias="mtekdisk">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/mtekdisk.smd</file>
+		<file alias="mtektext">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/mtektext.smd</file>
+		<file alias="starsprite">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/star.smd</file>
+		<file alias="psn00blogo">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/psn00blogo.smd</file>
+		<file alias="n00blogo">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/logo.smd</file>
+		
+		<!-- lighting demo assets -->
+		<file alias="lightworld">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/petscum.smd</file>
+		<file alias="lightbulb">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/bulb.smd</file>
+		
+		<!-- Hi-res bungirl demo assets -->
+		<file alias="bungirl">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/bungirl.smd</file>
+		
+		<file alias="starmask">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/star_mask.smd</file>
+		<file alias="timerift">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/timerift.smd</file>
+		<file alias="rbowshade">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/rbowshade.smd</file>
+		
+		<file alias="hatkid">D:/Imandana/TutorialJM/PS1/Project/n00bdemo/data/hatkid.smd</file>
+		
+		<!-- Global textures -->
+		<file alias="textures">textures.qlp</file>
+		
+	</create>
+	
+</lzp_project>

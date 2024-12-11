@@ -1,0 +1,23 @@
+# ninja log v6
+7	695	7555893066691807	data.lzp	296cc9800baf4522
+7	695	7555893066691807	textures.qlp	296cc9800baf4522
+7	695	7555893066691807	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/data.lzp	296cc9800baf4522
+7	695	7555893066691807	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/textures.qlp	296cc9800baf4522
+842	1173	7555893068696424	CMakeFiles/n00bdemo.dir/plasmagen.s.obj	780f8434b03dfe06
+816	1540	7555893068357332	CMakeFiles/n00bdemo.dir/plasma_tbl.c.obj	6c607f5a430cc762
+1545	1699	7555893075548732	CMakeFiles/n00bdemo.dir/smdparser.s.obj	bdfa02520b696180
+1177	1720	7555893072102556	CMakeFiles/n00bdemo.dir/smd_flat.s.obj	2ec944b5019b0e3d
+940	1726	7555893069524197	CMakeFiles/n00bdemo.dir/smd_cel.s.obj	cc32c5ec2e02185a
+903	1736	7555893069344684	CMakeFiles/n00bdemo.dir/smd.s.obj	d043be4f6e7e813d
+1706	1804	7555893077204757	CMakeFiles/n00bdemo.dir/incbin_n00bdemo__lz_resources.s.obj	b7651b8f81ddb7df
+873	1943	7555893068975680	CMakeFiles/n00bdemo.dir/scrolltext.c.obj	9d08f06c9f819b2a
+699	2017	7555893067509591	CMakeFiles/n00bdemo.dir/disp.c.obj	2c9503f1e5695769
+748	2294	7555893067589383	CMakeFiles/n00bdemo.dir/lightdemo.c.obj	a1b273659bd406e8
+781	2305	7555893068137911	CMakeFiles/n00bdemo.dir/overlay.c.obj	9391ecbc82842ad6
+757	2446	7555893067699093	CMakeFiles/n00bdemo.dir/logo.c.obj	d319e25c545f00d5
+769	2591	7555893067818765	CMakeFiles/n00bdemo.dir/main.c.obj	1aa375627609fdfe
+2597	2830	7555893088320764	n00bdemo.elf	efbbf71aef2ddc85
+2597	2830	7555893088320764	n00bdemo.exe	efbbf71aef2ddc85
+2597	2830	7555893088320764	n00bdemo.map	efbbf71aef2ddc85
+2597	2830	7555893088320764	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/n00bdemo.exe	efbbf71aef2ddc85
+2597	2830	7555893088320764	D:/Imandana/TutorialJM/PS1/Project/n00bdemo/build/n00bdemo.map	efbbf71aef2ddc85

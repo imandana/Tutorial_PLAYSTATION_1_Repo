@@ -1,0 +1,71 @@
+__text_start T 80010000 	D:/Imandana/TutorialJM/PS1/Project/Awal/rgb24/main.c:9
+main T 80010000 6c	D:/Imandana/TutorialJM/PS1/Project/Awal/rgb24/main.c:9
+DrawSync T 8001006c 
+GetTimInfo T 80010108 9c
+LoadImage T 800101a4 
+PutDispEnv T 80010248 
+ReadGPUstat T 80010420 
+ResetGraph T 80010430 
+VSync T 800105b0 
+_vsync_sub t 800106b8 
+_vsync_irq_callback t 8001074c 
+SetDefDispEnv T 800107a4 34
+SetDispMask T 800107d8 
+InterruptCallback T 800107f8 
+_global_isr t 80010854 
+RestartCallback T 800108d0 
+_96_remove T 80010964 
+puts T 80010970 
+printf T 8001097c 
+ReturnFromException T 80010988 
+SetCustomExitFromException T 80010994 
+ChangeClearPAD T 800109a0 
+ChangeClearRCnt T 800109ac 
+EnterCriticalSection T 800109b8 
+ExitCriticalSection T 800109c8 
+_start T 800109d8 238
+strncpy T 80010c10 4c
+strstr T 80010c5c fc
+strtok T 80010d58 114
+GetBSSend T 80010e6c 
+InitHeap W 80010e7c 
+SetHeapSize W 80010ea4 
+malloc W 80010eb8 
+calloc W 80010fdc 
+free W 80011018 
+memcmp T 80011050 
+memset T 80011084 
+__CTOR_LIST__ D 800110c0 
+__CTOR_END__ D 800110c8 
+__DTOR_LIST__ D 800110d0 
+__DTOR_END__ D 800110d8 
+tim_image D 800110d8 d73c
+tim_image_end d 8001e814 
+tim_image_size D 8001e814 4
+_vsync_rcnt d 8001e818 
+_vsync_lasthblank d 8001e81c 
+vsynctimeout_msg d 8001e820 
+resetgraph_msg d 8001e830 
+enableint_msg d 8001e84e 
+cbhooks_msg d 8001e86e 
+abouttoen_msg d 8001e893 
+sr_msg d 8001e8b9 
+psxgpu_credits D 8001e8cb 
+_irq_func_table D 8001e918 
+_custom_exit D 8001e948 
+__bss_start B 8001e978 
+_gpu_current_field B 8001e978 4
+_hooks_installed B 8001e97c 4
+_vsync_cb_func B 8001e980 4
+_gpu_standard B 8001e984 4
+_malloc_addr B 8001e988 4
+_malloc_size B 8001e98c 4
+_arg_string_buffer b 8001e990 84
+_argv_buffer b 8001ea14 40
+__argv B 8001ea54 4
+__argc B 8001ea58 4
+_strtok_endpos b 8001ea5c 4
+_strtok_curpos b 8001ea60 4
+_isr_stack B 8001ea70 1004
+_end B 8001fa74 
+_gp d 80026970 
